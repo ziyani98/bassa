@@ -1,0 +1,54 @@
+
+.prin{
+border: solid blue 1px;
+height: 300px;
+
+
+}
+.img{
+width: 150px;
+border: solid blue 1px;
+margin: 2px 2px 2px 2px ;
+
+}
+h1{
+	border: solid blue 1px;
+	text-align: center;
+	width: 400px;
+	float: right;
+	margin-right:50px;
+	padding: 10px 5px 5px 5px;
+	margin-top: 0;
+
+}
+.j{
+
+	border: solid blue 1px;
+text-align: center;
+}
+.ch{
+		border: solid blue 1px;
+		width: 50%;
+		text-align: center;
+
+}
+.fr{
+		border: solid blue 1px;
+		width: 49%;
+		float: right;
+		margin-top:  -22px;
+		text-align: center;
+
+	}
+	div p{
+		border: solid blue 1px;
+		width:500px; 
+		padding: 4px 4px;
+		text-align: right;
+	}
+	 button{
+border: solid blue 1px ;
+		float: right;
+		margin-top:  -40px;
+		
+	}
